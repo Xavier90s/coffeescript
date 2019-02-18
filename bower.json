@@ -14,6 +14,15 @@
     "name": "Jeremy Ashkenas"
   },
   "ignore": [
-    "test"
-  ]
+    "test",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "homepage": "https://github.com/Xavier90s/coffeescript",
+  "authors": [
+    "Xavier Cuadrado Villarreal <xcuadrado@pasiona.com>"
+  ],
+  "license": "MIT"
 }
